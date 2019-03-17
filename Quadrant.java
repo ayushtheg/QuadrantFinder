@@ -9,7 +9,7 @@ public class QuadrantFinder {
 
 	}
 	public static void quadrant(double x, double y) {
-		//#16 tells quadrant
+		//Tells quadrant
 		if (x > 0 && y > 0) {
 			System.out.println("1");
 		}
